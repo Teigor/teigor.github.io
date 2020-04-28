@@ -1,0 +1,132 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#foto img {
+    width: 100%;
+    padding: 0;
+    color: #DAD9DE;
+}
+
+.tulisan {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.thumbnail {
+    font-family: Calibri;
+    position: relative;
+    top: -75px;
+    text-align: center;
+    padding: 10px;
+    width: 30%;
+    margin: 17px;
+    float: left;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.thumbnail:hover {
+    top: -90px;
+    transition: 0.5s;
+}
+
+.thumbnail img {
+    width: 30;
+    height: 30;
+    margin-top: 9;
+}
+
+#iklan img {
+    width: 83%;
+    height: 160px;
+    border-radius: 10px;
+    margin-bottom: 50;
+}
+.warna{
+    clear: float;
+    background-color:  #001a33;
+}
+
+.row {
+    width: 50%;
+    color: white;
+    height: auto;
+    margin-top: 70;
+}
+.peding-100 {
+    padding: 120px;
+    background-color: #001a33;
+    height: 400;
+}
+ 
+.peding-30 {
+    background-color: white;
+}
+
+.form-group {
+    border-bottom: black;
+    margin: -10;
+    margin-left: 30;
+    margin-right: 20;
+}
+
+.submit {
+    margin-left: 30;
+    margin-bottom: 70;
+}
+
+.btn-primary {
+    float: left;
+    padding-bottom: 20;
+}
+
+.logo img {
+    width: 200;
+    margin-top: -7;
+    margin-bottom: 10;
+}  
+
+.row-cols-4 {
+    width: 101.1%;
+    height: 370;
+    background-color: #001a33;
+}
+
+.col1 {
+    margin-top: 75;
+    margin-left: 100;
+    margin-right: -20;
+    text-decoration: none;
+}
+
+.col2 {
+    margin-top: 75;
+    margin-left: 10;
+    margin-right: 1 0;
+}
+
+.col-6 {
+    margin-top: 75;
+    margin-left: -200;
+}
+
+.form-footer input {
+    width: 400;
+}
+
+#tombol input {
+    margin-left: 405;
+    margin-top: -39;
+}
+
+#floor {
+    width: 100%;
+    height: 40;
+    padding: 7;
+    text-align: center;
+    background-color: dodgerblue;
+}
